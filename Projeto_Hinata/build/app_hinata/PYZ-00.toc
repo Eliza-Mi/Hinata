@@ -1,4 +1,4 @@
-('C:\\Users\\User\\OneDrive\\Desktop\\Test\\Projeto_Hinata\\build\\app_hinata\\PYZ-00.pyz',
+('C:\\Users\\User\\OneDrive\\Desktop\\Test\\projeto_hinata\\build\\app_hinata\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\User\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
