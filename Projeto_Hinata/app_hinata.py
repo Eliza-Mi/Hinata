@@ -6,7 +6,7 @@ import numpy as np
 
 # Configuração visual do tema
 ctk.set_appearance_mode("dark")
-ctk.set_default_color_theme("purple")
+ctk.set_default_color_theme("dark-blue")
 
 class AppHyuga(ctk.CTk):
     def __init__(self):
